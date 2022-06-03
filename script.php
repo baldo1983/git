@@ -11,14 +11,14 @@
     * @return float
   */
 
-  function suma ($num1, $num2) {
-      $resultadosuma = $num1 + $num2;
-      return $resultadosuma;
+  function resta ($num1, $num2) {
+      $resultadoresta = $num1 - $num2;
+      return $resultadoresta;
 
   }
 
-$suma = suma (24,42);
-echo $suma;
+$resta = suma (24,42);
+echo $resta;
 echo "hola mundo";
 echo "aqui otra modicacion";
 ?>
